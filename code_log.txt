@@ -1,2 +1,10 @@
 2025-04-18 20:02:20.372615: Preliminaries complete. Initiating ETL process
 2025-04-18 20:02:22.830544: Data extraction complete. Initiating Transformation process
+2025-04-18 20:03:11.896288: Preliminaries complete. Initiating ETL process
+2025-04-18 20:03:13.908475: Data extraction complete. Initiating Transformation process
+2025-04-18 20:03:13.994397: Data transformation complete. Initiating Loading process
+2025-04-18 20:03:14.005712: Data saved to CSV file
+2025-04-18 20:03:14.054386: Data loaded to Database as a table, Executing queries
+2025-04-18 20:03:14.054815: Process Complete
+2025-04-18 20:03:14.073539: Process Complete
+2025-04-18 20:03:14.084245: Process Complete
